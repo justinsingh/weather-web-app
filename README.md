@@ -11,4 +11,8 @@ $ npm install
 $ npm start
 ```
 
+<p align="center">
+  <img src="https://github.com/justinsingh/weather-web-app/tree/master/app/images/preview1.png" width="350"/>
+</p>
+
 
