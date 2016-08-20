@@ -12,7 +12,7 @@ $ npm start
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/justinsingh/weather-web-app/master/app/images/preview1.png" width="350"/>
+  <img src="https://raw.githubusercontent.com/justinsingh/weather-web-app/master/app/images/preview1.png"/>
 </p>
 
 
