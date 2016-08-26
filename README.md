@@ -9,6 +9,7 @@ To run:
 ```sh
 $ git clone https://github.com/justinsingh/weather-web-app.git
 $ npm install
+$ webpack
 $ npm start
 ```
 Images:
